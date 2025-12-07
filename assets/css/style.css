@@ -8,5 +8,6 @@ h1 {
     rgb(255, 0, 128));
   background-clip: text;
   text-fill-color: transparent;
+  color: transparent;
   font-variant-ligatures: no-common-ligatures;
 }
