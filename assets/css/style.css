@@ -1,0 +1,12 @@
+h1 {
+  text-align: center;
+  font-size: 5rem;
+  letter-spacing: -0.4rem;
+  background: linear-gradient(
+    90deg, 
+    rgb(121, 40, 202), 
+    rgb(255, 0, 128));
+  background-clip: text;
+  text-fill-color: transparent;
+  font-variant-ligatures: no-common-ligatures;
+}
